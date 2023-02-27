@@ -12,6 +12,8 @@ class Pantalla5: UIViewController {
     
     @IBOutlet weak var imagen_cinco: UIImageView!
     @IBOutlet weak var txt_info_cinco: UITextView!
+    @IBOutlet weak var btn_goToSongFive: UIButton!
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()

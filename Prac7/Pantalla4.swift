@@ -12,6 +12,7 @@ class Pantalla4: UIViewController {
     
     @IBOutlet weak var imagen_cuatro: UIImageView!
     @IBOutlet weak var txt_info_cuatro: UITextView!
+    @IBOutlet weak var btn_goToSongFour: UIButton!
     
     override func viewDidLoad() {
         super.viewDidLoad()

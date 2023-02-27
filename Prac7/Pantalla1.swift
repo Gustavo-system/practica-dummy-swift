@@ -17,6 +17,7 @@ class Pantalla1: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        self.imagen_uno.image = UIImage(named: "imagine_dragons.jpeg")
     }
 
 

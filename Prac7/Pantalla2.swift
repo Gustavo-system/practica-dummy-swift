@@ -14,6 +14,8 @@ class Pantalla2: UIViewController {
     @IBOutlet weak var txt_info_dos: UITextView!
     
     
+    @IBOutlet weak var btn_goToSongTwo: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 

@@ -12,6 +12,7 @@ class Pantalla3: UIViewController {
     
     @IBOutlet weak var imagen_tres: UIImageView!
     @IBOutlet weak var txt_info_tres: UITextView!
+    @IBOutlet weak var btn_goToSongThree: UIButton!
     
     override func viewDidLoad() {
         super.viewDidLoad()
