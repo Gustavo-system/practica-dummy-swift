@@ -9,21 +9,39 @@
 /* Begin PBXBuildFile section */
 		DB193DCA29AD485E007B5CB9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB193DC929AD485E007B5CB9 /* AppDelegate.swift */; };
 		DB193DCC29AD485E007B5CB9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB193DCB29AD485E007B5CB9 /* SceneDelegate.swift */; };
-		DB193DCE29AD485E007B5CB9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB193DCD29AD485E007B5CB9 /* ViewController.swift */; };
+		DB193DCE29AD485E007B5CB9 /* Pantalla1.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB193DCD29AD485E007B5CB9 /* Pantalla1.swift */; };
 		DB193DD129AD485E007B5CB9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB193DCF29AD485E007B5CB9 /* Main.storyboard */; };
 		DB193DD329AD485F007B5CB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB193DD229AD485F007B5CB9 /* Assets.xcassets */; };
 		DB193DD629AD485F007B5CB9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB193DD429AD485F007B5CB9 /* LaunchScreen.storyboard */; };
+		DB193DDE29AD4951007B5CB9 /* Pantalla2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB193DDD29AD4951007B5CB9 /* Pantalla2.swift */; };
+		DB193DE029AD4E40007B5CB9 /* Pantalla3.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB193DDF29AD4E40007B5CB9 /* Pantalla3.swift */; };
+		DB193DE229AD4EE2007B5CB9 /* Pantalla4.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB193DE129AD4EE2007B5CB9 /* Pantalla4.swift */; };
+		DB193DE429AD4F81007B5CB9 /* Pantalla5.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB193DE329AD4F81007B5CB9 /* Pantalla5.swift */; };
+		DB193DE929AD53C8007B5CB9 /* bmth.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DB193DE529AD53C7007B5CB9 /* bmth.jpeg */; };
+		DB193DEA29AD53C8007B5CB9 /* eminem.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DB193DE629AD53C7007B5CB9 /* eminem.jpeg */; };
+		DB193DEB29AD53C8007B5CB9 /* gorillaz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DB193DE729AD53C7007B5CB9 /* gorillaz.jpg */; };
+		DB193DEC29AD53C8007B5CB9 /* imagine_dragons.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DB193DE829AD53C8007B5CB9 /* imagine_dragons.jpeg */; };
+		DB193DEE29AD5426007B5CB9 /* enanitos_verdes.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DB193DED29AD5425007B5CB9 /* enanitos_verdes.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		DB193DC629AD485E007B5CB9 /* Prac7.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Prac7.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB193DC929AD485E007B5CB9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DB193DCB29AD485E007B5CB9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		DB193DCD29AD485E007B5CB9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		DB193DCD29AD485E007B5CB9 /* Pantalla1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pantalla1.swift; sourceTree = "<group>"; };
 		DB193DD029AD485E007B5CB9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DB193DD229AD485F007B5CB9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB193DD529AD485F007B5CB9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DB193DD729AD485F007B5CB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB193DDD29AD4951007B5CB9 /* Pantalla2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pantalla2.swift; sourceTree = "<group>"; };
+		DB193DDF29AD4E40007B5CB9 /* Pantalla3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pantalla3.swift; sourceTree = "<group>"; };
+		DB193DE129AD4EE2007B5CB9 /* Pantalla4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pantalla4.swift; sourceTree = "<group>"; };
+		DB193DE329AD4F81007B5CB9 /* Pantalla5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pantalla5.swift; sourceTree = "<group>"; };
+		DB193DE529AD53C7007B5CB9 /* bmth.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bmth.jpeg; path = ../../bmth.jpeg; sourceTree = "<group>"; };
+		DB193DE629AD53C7007B5CB9 /* eminem.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = eminem.jpeg; path = ../../eminem.jpeg; sourceTree = "<group>"; };
+		DB193DE729AD53C7007B5CB9 /* gorillaz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = gorillaz.jpg; path = ../../gorillaz.jpg; sourceTree = "<group>"; };
+		DB193DE829AD53C8007B5CB9 /* imagine_dragons.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = imagine_dragons.jpeg; path = ../../imagine_dragons.jpeg; sourceTree = "<group>"; };
+		DB193DED29AD5425007B5CB9 /* enanitos_verdes.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = enanitos_verdes.jpeg; path = ../../enanitos_verdes.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +76,20 @@
 			children = (
 				DB193DC929AD485E007B5CB9 /* AppDelegate.swift */,
 				DB193DCB29AD485E007B5CB9 /* SceneDelegate.swift */,
-				DB193DCD29AD485E007B5CB9 /* ViewController.swift */,
+				DB193DCD29AD485E007B5CB9 /* Pantalla1.swift */,
 				DB193DCF29AD485E007B5CB9 /* Main.storyboard */,
 				DB193DD229AD485F007B5CB9 /* Assets.xcassets */,
 				DB193DD429AD485F007B5CB9 /* LaunchScreen.storyboard */,
 				DB193DD729AD485F007B5CB9 /* Info.plist */,
+				DB193DDD29AD4951007B5CB9 /* Pantalla2.swift */,
+				DB193DDF29AD4E40007B5CB9 /* Pantalla3.swift */,
+				DB193DE129AD4EE2007B5CB9 /* Pantalla4.swift */,
+				DB193DE329AD4F81007B5CB9 /* Pantalla5.swift */,
+				DB193DE529AD53C7007B5CB9 /* bmth.jpeg */,
+				DB193DE629AD53C7007B5CB9 /* eminem.jpeg */,
+				DB193DE729AD53C7007B5CB9 /* gorillaz.jpg */,
+				DB193DE829AD53C8007B5CB9 /* imagine_dragons.jpeg */,
+				DB193DED29AD5425007B5CB9 /* enanitos_verdes.jpeg */,
 			);
 			path = Prac7;
 			sourceTree = "<group>";
@@ -125,7 +152,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DB193DEA29AD53C8007B5CB9 /* eminem.jpeg in Resources */,
+				DB193DEE29AD5426007B5CB9 /* enanitos_verdes.jpeg in Resources */,
+				DB193DE929AD53C8007B5CB9 /* bmth.jpeg in Resources */,
 				DB193DD629AD485F007B5CB9 /* LaunchScreen.storyboard in Resources */,
+				DB193DEC29AD53C8007B5CB9 /* imagine_dragons.jpeg in Resources */,
+				DB193DEB29AD53C8007B5CB9 /* gorillaz.jpg in Resources */,
 				DB193DD329AD485F007B5CB9 /* Assets.xcassets in Resources */,
 				DB193DD129AD485E007B5CB9 /* Main.storyboard in Resources */,
 			);
@@ -138,9 +170,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DB193DCE29AD485E007B5CB9 /* ViewController.swift in Sources */,
+				DB193DE029AD4E40007B5CB9 /* Pantalla3.swift in Sources */,
+				DB193DCE29AD485E007B5CB9 /* Pantalla1.swift in Sources */,
+				DB193DDE29AD4951007B5CB9 /* Pantalla2.swift in Sources */,
+				DB193DE429AD4F81007B5CB9 /* Pantalla5.swift in Sources */,
 				DB193DCA29AD485E007B5CB9 /* AppDelegate.swift in Sources */,
 				DB193DCC29AD485E007B5CB9 /* SceneDelegate.swift in Sources */,
+				DB193DE229AD4EE2007B5CB9 /* Pantalla4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
