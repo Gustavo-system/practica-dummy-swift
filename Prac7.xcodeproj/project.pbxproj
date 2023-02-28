@@ -22,6 +22,7 @@
 		DB193DEB29AD53C8007B5CB9 /* gorillaz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DB193DE729AD53C7007B5CB9 /* gorillaz.jpg */; };
 		DB193DEC29AD53C8007B5CB9 /* imagine_dragons.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DB193DE829AD53C8007B5CB9 /* imagine_dragons.jpeg */; };
 		DB193DEE29AD5426007B5CB9 /* enanitos_verdes.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DB193DED29AD5425007B5CB9 /* enanitos_verdes.jpeg */; };
+		DB193DF029AD65D8007B5CB9 /* back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DB193DEF29AD65D8007B5CB9 /* back.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		DB193DE729AD53C7007B5CB9 /* gorillaz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = gorillaz.jpg; path = ../../gorillaz.jpg; sourceTree = "<group>"; };
 		DB193DE829AD53C8007B5CB9 /* imagine_dragons.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = imagine_dragons.jpeg; path = ../../imagine_dragons.jpeg; sourceTree = "<group>"; };
 		DB193DED29AD5425007B5CB9 /* enanitos_verdes.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = enanitos_verdes.jpeg; path = ../../enanitos_verdes.jpeg; sourceTree = "<group>"; };
+		DB193DEF29AD65D8007B5CB9 /* back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = back.jpg; path = ../../back.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				DB193DE729AD53C7007B5CB9 /* gorillaz.jpg */,
 				DB193DE829AD53C8007B5CB9 /* imagine_dragons.jpeg */,
 				DB193DED29AD5425007B5CB9 /* enanitos_verdes.jpeg */,
+				DB193DEF29AD65D8007B5CB9 /* back.jpg */,
 			);
 			path = Prac7;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				DB193DEE29AD5426007B5CB9 /* enanitos_verdes.jpeg in Resources */,
 				DB193DE929AD53C8007B5CB9 /* bmth.jpeg in Resources */,
 				DB193DD629AD485F007B5CB9 /* LaunchScreen.storyboard in Resources */,
+				DB193DF029AD65D8007B5CB9 /* back.jpg in Resources */,
 				DB193DEC29AD53C8007B5CB9 /* imagine_dragons.jpeg in Resources */,
 				DB193DEB29AD53C8007B5CB9 /* gorillaz.jpg in Resources */,
 				DB193DD329AD485F007B5CB9 /* Assets.xcassets in Resources */,

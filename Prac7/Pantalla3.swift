@@ -12,11 +12,12 @@ class Pantalla3: UIViewController {
     
     @IBOutlet weak var imagen_tres: UIImageView!
     @IBOutlet weak var txt_info_tres: UITextView!
-    @IBOutlet weak var btn_goToSongThree: UIButton!
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+        self.imagen_tres.image = UIImage(named: "eminem.jpeg")
+        self.txt_info_tres.text = "Marshall Bruce Mathers III, más conocido como Eminem es un rapero, cantautor, productor y actor estadounidense. Se le atribuye la popularización del hip hop en el centro de Estados Unidos y es aclamado por la crítica como uno de los mejores raperos de todos los tiempos."
         // Do any additional setup after loading the view.
     }
     

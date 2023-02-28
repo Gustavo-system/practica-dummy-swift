@@ -12,11 +12,11 @@ class Pantalla4: UIViewController {
     
     @IBOutlet weak var imagen_cuatro: UIImageView!
     @IBOutlet weak var txt_info_cuatro: UITextView!
-    @IBOutlet weak var btn_goToSongFour: UIButton!
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        self.imagen_cuatro.image = UIImage(named: "bmth.jpeg")
+        self.txt_info_cuatro.text = "Bring Me the Horizon es una banda británica de metalcore y pop rock proveniente de Sheffield, Inglaterra. Se formó en 2003 y actualmente está conformada por el vocalista Oliver Sykes, el guitarrista Lee Malia, el bajista Matt Kean, el baterista Matt Nicholls y el tecladista Jordan Fish."
         // Do any additional setup after loading the view.
     }
     

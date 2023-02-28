@@ -12,12 +12,12 @@ class Pantalla5: UIViewController {
     
     @IBOutlet weak var imagen_cinco: UIImageView!
     @IBOutlet weak var txt_info_cinco: UITextView!
-    @IBOutlet weak var btn_goToSongFive: UIButton!
     
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        self.imagen_cinco.image = UIImage(named: "gorillaz.jpg")
+        self.txt_info_cinco.text = "magine Dragons es una banda estadounidense de pop rock originaria de Las Vegas, Nevada. Está compuesta por Dan Reynolds, Daniel Wayne Sermon, Ben McKee y Daniel Platzman. Ganó el reconocimiento mundial con el lanzamiento de su álbum de estudio debut Night Visions, y con su canción It's Time"
         // Do any additional setup after loading the view.
     }
     
